@@ -1,0 +1,36 @@
+.btn{
+    border: 1px solid #f00;
+    padding: 5px 16px;
+    border-radius: 60px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #f00;
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #f00;
+}
+
+.primary-btn{
+    background-color: #0f0;
+    color: #fff;
+    border-color: #0f0;
+}
+
+.primary-btn:hover{
+    background-color: #fff;
+    color: #0f0;
+}
+
+.secondary-btn{
+    background-color: #00f;
+    color: #fff;
+    border-color: #00f;
+}
+
+.secondary-btn:hover{
+    background-color: #fff;
+    color: #00f;
+}
